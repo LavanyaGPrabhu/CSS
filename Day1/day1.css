@@ -1,0 +1,133 @@
+.box1 {
+  border: none;
+  background-color: #6be39b;
+  width: 600px;
+  height: 500px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+.title1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+  padding: auto;
+  padding-top: 90px;
+  margin: 0;
+  margin-left: 50px;
+}
+
+.content1 {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  font-size: 18px;
+  margin-left: 50px;
+}
+
+.button-container1{
+  font-family: 'Poppins', sans-serif;
+  margin-left: 50px;
+  width: 250px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #fff;
+  border: none;
+  border-radius: 30px;
+}
+
+.text1{
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  padding-top: 10px;
+}
+
+.box2{
+  font-family: 'Poppins', sans-serif;
+  width: 600px;
+  height: 370px;
+  background-color: white;
+  border: 2px solid rgb(189, 193, 198);
+  border-radius: 10px;
+
+}
+.title2 {
+  font-size: 30px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.content2 {
+  font-size: 20px;
+  color: #5f6368;
+  margin: 25px;
+}
+
+.profile-images {
+  padding-bottom: 30px;
+  border-bottom: 2px solid rgb(189, 193, 198);
+}
+
+.profile-images img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+
+.profile-footer{
+  margin-top: 5px;
+  margin-left: 25px;
+  color: #1a73e8;
+  font-weight: bold;
+}
+
+.box3 {
+  width: 300px;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 12px;
+  border: 2px solid rgb(159, 164, 170);
+}
+
+.image3{
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.header3 {
+  font-family: sans-serif;
+  padding: 10px 15px;
+  font-size: 14px;
+  color: gray;
+  font-weight: bold;
+}
+
+.title3 {
+  margin-left: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+.box {
+  border: 2px solid rgb(159, 164, 170);
+  width: 180px;
+  height: 50px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+}
+
+.text3{
+  margin: 0;
+  margin-top: 15px;
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+  margin-left: 40px;
+}
